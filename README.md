@@ -1,5 +1,5 @@
 
-# 🧠 Simple LangChain Demo
+# 🧠LangChain Demo
 
 This project demonstrates a basic usage of [LangChain](https://www.langchain.com/) to interact with large language models through a custom Python notebook. It is intended for educational or experimental use with OpenAI's API.
 
